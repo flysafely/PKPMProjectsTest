@@ -1,0 +1,6 @@
+F:\RevitProjects\PKPMFirstProject\bin\x64\Debug\PKPMFirstProject.dll
+F:\RevitProjects\PKPMFirstProject\bin\x64\Debug\PKPMFirstProject.pdb
+F:\RevitProjects\PKPMFirstProject\obj\x64\Debug\PKPMFirstProject.csproj.CoreCompileInputs.cache
+F:\RevitProjects\PKPMFirstProject\obj\x64\Debug\PKPMFirstProject.dll
+F:\RevitProjects\PKPMFirstProject\obj\x64\Debug\PKPMFirstProject.pdb
+F:\RevitProjects\PKPMFirstProject\obj\x64\Debug\PKPMFirstProject.csproj.AssemblyReference.cache
